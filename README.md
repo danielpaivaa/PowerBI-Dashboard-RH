@@ -9,6 +9,9 @@ Estou criando um dashboard sobre RH a partir de um conjunto de dados fictício. 
 ### Criando um plano de fundo
   - Plano de fundo e tooltip criados utilizando Microsoft PowerPoint
 
+![Plano de fundo](arquivos/Plano%20de%20Fundo.png)
+![Plano de fundo tooltip](arquivos/Plano%20de%20Fundo%20Tooltip.png)
+
 ### Importação e Transformação dos Dados
 
 - **Passos de Transformação:**
@@ -33,8 +36,7 @@ Estou criando um dashboard sobre RH a partir de um conjunto de dados fictício. 
 ![Painel de Análise RH](arquivos/Aula%203.png)
 
 ### Painel Tooltip
-
-![Painel de Tooltip](arquivos/Tooltip.png)
+![Painel tooltip](arquivos/Tooltip.png)
 
 ### Contratações
 - **Insight**: Com um total de 234 contratações, o gráfico mostra a variação no número de contratações ao longo do tempo.
@@ -46,13 +48,13 @@ Estou criando um dashboard sobre RH a partir de um conjunto de dados fictício. 
 - **Insight**: Com apenas 17 desligamentos e um turnover de 7,26%, confirmamos a estabilidade da força de trabalho da empresa.
 
 ### Colaboradores Ativos por Cidade
-- **Insight**: Podemos ver como está distribuída a base de funcionários dessa empresa, com destaque para uma maior quantidade de colaboradores na cidade de São Paulo. Além disso, com o painel Tooltip podemos observar mais informações como o salário total e cargos de cada cidade.
+- **Insight**: Podemos ver como está distribuída a base de funcionários dessa empresa, com destaque para uma maior quantidade de colaboradores na cidade de São Paulo. Além disso, com o painel *Tooltip* podemos observar mais informações como o salário total e cargos de cada cidade.
 
 ### Colaboradores Ativos por Gênero
-- **Insight**: A empresa contém uma base de colaboradores com uma excelente diversidade, sendo 52,07% do sexo masculino e 47,93% do sexo feminino.
+- **Insight**: A empresa contém uma base de colaboradores com uma excelente diversidade, sendo 52,07% do sexo masculino e 47,93% do sexo feminino. 
 
 ### Gráfico de Árvore Hierárquica
-- **Insight**: Neste gráfico, podemos ver como está distribuída a base de funcionários com base em suas áreas e cargos, onde a maior parte se encontra na área *Administrativa* com 58 colaboradores.
+- **Insight**: Neste gráfico, podemos ver como está distribuída a base de funcionários com base em suas áreas e cargos, onde a maior parte se encontra na área *Administrativa* com 58 colaboradores e desses, 23 são de cargo *estagiário*.
 
 ### Média Salarial por Cargo
 - **Insight**: Podemos notar que o cargo com maior média salarial é o de *Diretor*. Utilizando filtros, podemos identificar que 100% dos diretores são do sexo feminino.
